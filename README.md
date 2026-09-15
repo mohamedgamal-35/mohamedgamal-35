@@ -2,8 +2,6 @@
 
 ### Cloud & DevOps Enthusiast | AWS | Linux | Networking
 
-I'm a Computer Science student at Menoufia University, specializing in Information Technology (IT).
-
 I'm passionate about Cloud Computing, DevOps, Networking, and building scalable and reliable infrastructure.
 
 ## ☁️ Cloud & DevOps
@@ -38,12 +36,6 @@ I'm passionate about Cloud Computing, DevOps, Networking, and building scalable 
 - Linux
 - AWS Management Console
 - VS Code
-
-## 🎓 Education
-
-**Bachelor's Degree in Computer Science**  
-Faculty of Computers and Information – Menoufia University  
-Expected Graduation: 2027
 
 ## 📚 Training
 
